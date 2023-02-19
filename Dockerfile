@@ -1,0 +1,1 @@
+FROM quay.io/cilium/startup-script:d69851597ea019af980891a4628fb36b7880ec26
